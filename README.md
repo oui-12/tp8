@@ -1,5 +1,9 @@
 # 🏦 Gestion de Comptes Bancaires - TP8
 
+![Image](https://github.com/user-attachments/assets/77f05eb9-84db-46e0-a992-aed8186a2742)
+![Image](https://github.com/user-attachments/assets/8e5ad638-fac7-4347-b77a-4b91837cefbc)
+![Image](https://github.com/user-attachments/assets/3a94acac-7a39-43c8-9f22-bfeef441030f)
+
 ## 📋 Description
 Une application Spring Boot pour la gestion de comptes bancaires avec une interface RESTful API.
 
